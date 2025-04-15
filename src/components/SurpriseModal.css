@@ -1,0 +1,53 @@
+.surprise-btn {
+  padding: 10px 20px;
+  background-color: #ff5e78;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.surprise-btn:hover {
+  background-color: #ff2f4f;
+}
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 500px;
+}
+
+.close-btn {
+  font-size: 30px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.surprise-image {
+  width: 100%;  /* Adjust size */
+  max-width: 400px;  /* Max size of the image */
+  height: auto;
+  border-radius: 10px;
+  margin-top: 20px;
+}

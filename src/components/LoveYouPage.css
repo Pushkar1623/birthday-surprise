@@ -1,0 +1,69 @@
+.love-you-page {
+  height: 100vh;
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+}
+
+.love-text {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  animation: pop 1s ease-in-out;
+}
+
+.message {
+  font-size: 1.2rem;
+  max-width: 600px;
+  line-height: 1.8;
+}
+
+.heart-background::before {
+  content: "💗💞💕💖💘";
+  font-size: 5rem;
+  position: absolute;
+  animation: float 5s infinite linear;
+  top: 10%;
+  left: 10%;
+  opacity: 0.5;
+}
+
+@keyframes float {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-100vh); }
+}
+
+@keyframes pop {
+  0% { transform: scale(0.5); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.love-image {
+  max-width: 300px;
+  width: 80%;
+  height: auto;
+  border-radius: 20px;
+  margin: 20px auto;
+  display: block;
+  box-shadow: 0 4px 20px rgba(255, 94, 156, 0.4);
+}
+/* In the respective CSS file */
+.final-gift-button {
+  background-color: #ff5e9c;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.final-gift-button:hover {
+  background-color: #ff80b5;
+}
