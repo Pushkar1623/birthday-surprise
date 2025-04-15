@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/birthday-surprise/static/css/main.a03a5936.chunk.css",
-    "main.js": "/birthday-surprise/static/js/main.0f8b5b62.chunk.js",
-    "main.js.map": "/birthday-surprise/static/js/main.0f8b5b62.chunk.js.map",
-    "runtime-main.js": "/birthday-surprise/static/js/runtime-main.f53bd995.js",
-    "runtime-main.js.map": "/birthday-surprise/static/js/runtime-main.f53bd995.js.map",
-    "static/js/2.e9e69573.chunk.js": "/birthday-surprise/static/js/2.e9e69573.chunk.js",
-    "static/js/2.e9e69573.chunk.js.map": "/birthday-surprise/static/js/2.e9e69573.chunk.js.map",
-    "static/js/3.16f0790f.chunk.js": "/birthday-surprise/static/js/3.16f0790f.chunk.js",
-    "static/js/3.16f0790f.chunk.js.map": "/birthday-surprise/static/js/3.16f0790f.chunk.js.map",
-    "index.html": "/birthday-surprise/index.html",
-    "precache-manifest.88375c2c8a514165c282fb36464515ef.js": "/birthday-surprise/precache-manifest.88375c2c8a514165c282fb36464515ef.js",
-    "service-worker.js": "/birthday-surprise/service-worker.js",
-    "static/css/main.a03a5936.chunk.css.map": "/birthday-surprise/static/css/main.a03a5936.chunk.css.map",
-    "static/js/2.e9e69573.chunk.js.LICENSE.txt": "/birthday-surprise/static/js/2.e9e69573.chunk.js.LICENSE.txt",
-    "static/media/gift-image.jpg": "/birthday-surprise/static/media/gift-image.b70d0cfa.jpg",
-    "static/media/gift-music.mp3": "/birthday-surprise/static/media/gift-music.21ce305b.mp3",
-    "static/media/loveyou.mp3": "/birthday-surprise/static/media/loveyou.326bc232.mp3",
-    "static/media/music.mp3": "/birthday-surprise/static/media/music.cc90e0c0.mp3",
-    "static/media/perfect.mp3": "/birthday-surprise/static/media/perfect.e1b6651f.mp3",
-    "static/media/vasu-love.jpg": "/birthday-surprise/static/media/vasu-love.c479f8d8.jpg"
+    "main.css": "/static/css/main.a03a5936.chunk.css",
+    "main.js": "/static/js/main.750f0955.chunk.js",
+    "main.js.map": "/static/js/main.750f0955.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.afee8626.js",
+    "runtime-main.js.map": "/static/js/runtime-main.afee8626.js.map",
+    "static/js/2.e9e69573.chunk.js": "/static/js/2.e9e69573.chunk.js",
+    "static/js/2.e9e69573.chunk.js.map": "/static/js/2.e9e69573.chunk.js.map",
+    "static/js/3.16f0790f.chunk.js": "/static/js/3.16f0790f.chunk.js",
+    "static/js/3.16f0790f.chunk.js.map": "/static/js/3.16f0790f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a31a665d54a9b352ecac9eb57b147d7.js": "/precache-manifest.1a31a665d54a9b352ecac9eb57b147d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a03a5936.chunk.css.map": "/static/css/main.a03a5936.chunk.css.map",
+    "static/js/2.e9e69573.chunk.js.LICENSE.txt": "/static/js/2.e9e69573.chunk.js.LICENSE.txt",
+    "static/media/gift-image.jpg": "/static/media/gift-image.b70d0cfa.jpg",
+    "static/media/gift-music.mp3": "/static/media/gift-music.21ce305b.mp3",
+    "static/media/loveyou.mp3": "/static/media/loveyou.326bc232.mp3",
+    "static/media/music.mp3": "/static/media/music.cc90e0c0.mp3",
+    "static/media/perfect.mp3": "/static/media/perfect.e1b6651f.mp3",
+    "static/media/vasu-love.jpg": "/static/media/vasu-love.c479f8d8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f53bd995.js",
+    "static/js/runtime-main.afee8626.js",
     "static/js/2.e9e69573.chunk.js",
     "static/css/main.a03a5936.chunk.css",
-    "static/js/main.0f8b5b62.chunk.js"
+    "static/js/main.750f0955.chunk.js"
   ]
 }
